@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "penZlS0jTu48A3dqXV2MMjyMTgCnGPKpPz3/LbQuk/cTexs14EMU4kCvnO9xfDiRJCR+8ddMghpHZ1JYGmwmYA==",
+  "success": true,
+  "projectFilePath": "/Users/frederik/Home/Chess Challenge/Chess-Challenge/Chess-Challenge/Chess-Challenge.csproj",
+  "expectedPackageFiles": [
+    "/Users/frederik/.nuget/packages/raylib-cs/4.5.0.2/raylib-cs.4.5.0.2.nupkg.sha512",
+    "/Users/frederik/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/frederik/.nuget/packages/microsoft.netcore.app.ref/6.0.27/microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/frederik/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.27/microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "/Users/frederik/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.27/microsoft.netcore.app.host.osx-arm64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
